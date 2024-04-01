@@ -1,0 +1,13 @@
+#       Structure
+
+1. create a structure named Book to store book details (i.e: title, author, and price). Wtite a C program to input details
+of three books, find most expensive and the lowest priced books and display their information. 
+
+
+#       Union
+
+#Difference Between
+1. Union and structure Difference
+
+2. create a struct called "Date" with three members: day, month, year(all integer). Write a function to compare to two date
+structure and return 1 if the first date is later, -1 it it's earlier, and 0 if they are same.

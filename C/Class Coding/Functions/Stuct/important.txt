@@ -1,0 +1,5 @@
+strcpy
+
+
+[^\n]s and we dont use "&" in scanf
+scanf("%s" sting)   // in string we dont use & 
