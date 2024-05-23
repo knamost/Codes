@@ -1,0 +1,16 @@
+Lab VII (File Handling)
+1.	Write a program in C to create a file and write some text into it. Close the file and display a message indicating successful completion.
+2.	Write a program in C to open an existing file and display its contents on the screen.
+3.	Write a program in C to append data to an existing file. Display the contents of the file before and after appending.
+4.	Write a program in C to copy the contents of one file into another file.
+5.	Write a program in C to read a file character by character and display the characters along with their ASCII values.
+6.	Write a program in C to read a file line by line and display each line on the screen.
+7.	Write a program in C to read an integer from a file and calculate its square. Write the square to another file.
+8.	Write a program in C to create a file with random numbers and then read the numbers from the file and calculate their average.
+9.	Write a program in C to open a file in read mode and write mode simultaneously. Read from one file and write to the other file simultaneously.
+10.	Write a program in C to demonstrate error handling in file operations. Handle errors such as file not found, permission denied, etc., and display appropriate messages.
+
+Lab VIII (Graphics)
+1.	Write a program in C to draw a line.
+2.	Write a program to draw a rectangle.
+3.	Write a program to draw a circle in C.
