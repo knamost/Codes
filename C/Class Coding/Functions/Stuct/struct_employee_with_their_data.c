@@ -12,16 +12,19 @@ int main() {
 
     // Get employee details
     for (int i = 0; i < 2; i++) {
-        printf("Enter name of employee %d\n", i + 1);
-        scanf("%s", e[i].name);
+        printf("Enter name of employee %d: ", i + 1);
+        scanf(" %99[^\n]", e[i].name);
+        getchar(); // Consume the newline character
 
-        printf("Enter salary of employee %d\n", i + 1);
+        printf("Enter salary of employee %d: ", i + 1);
         scanf("%f", &e[i].salary); // Address-of operator for float
 
-        printf("Enter id of employee %d\n", i + 1);
-        scanf("%d", &e[i].emp_id);   // Address-of operator for int
+        printf("Enter id of employee %d: ", i + 1);
+        scanf("%d", &e[i].emp_id); // Address-of operator for int
     }
-    printf("\n____________________________________");
+
+    printf("\n_______________________________________");
+
     // Print employee details
     for (int i = 0; i < 2; i++) {
         printf("\nEmployee %d details\n", i + 1);

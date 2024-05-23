@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 int main(){
-    int i, j;
     int mat[3][2] = {{1, 1},
                     {2, 2},
                     {3, 3}};
     
     int sum_row[3];
-    int sum_column[2] = {0}; /////////////////hereeee
+    int sum_column[2] = {0};
 
     for (int i = 0; i < 3; i++){
         sum_row[i] = 0;

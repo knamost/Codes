@@ -1,0 +1,7 @@
+Lab V (Functions):
+1.	Write a function sum that takes two integers as arguments and returns their sum. Call this function from the main function and print the result.
+2.	Write a program that demonstrates nesting of functions, where each function performs a specific arithmetic operation (addition, subtraction, multiplication, division) on two numbers.
+3.	Write a recursive function factorial to calculate the factorial of a given integer. Use this function to find the factorial of 5.
+4.	Write a function findMax that takes an array of integers and its size as arguments and returns the maximum element in the array.
+5.	Write a function stringLength that takes a string as an argument and returns its length.
+6.	Write a program that demonstrates passing arguments by address. Define a function swap that takes two integer pointers as arguments and swaps the values they point to. Print the swapped values from the main function.

@@ -1,51 +1,51 @@
-// Write a program to add two matrices.
+// // Write a program to add two matrices.
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main() {
-    int rows, cols;
+// int main() {
+//     int rows, cols;
 
-    printf("Enter the number of rows and columns (for both matrices): ");
-    scanf("%d %d", &rows, &cols);
+//     printf("Enter the number of rows and columns (for both matrices): ");
+//     scanf("%d %d", &rows, &cols);
 
-    int matrix1[rows][cols], matrix2[rows][cols], sum[rows][cols];
+//     int matrix1[rows][cols], matrix2[rows][cols], sum[rows][cols];
 
-    printf("Enter elements of matrix 1:\n");
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
-            scanf("%d", &matrix1[i][j]);
-        }
-    }
+//     printf("Enter elements of matrix 1:\n");
+//     for (int i = 0; i < rows; i++) {
+//         for (int j = 0; j < cols; j++) {
+//             scanf("%d", &matrix1[i][j]);
+//         }
+//     }
 
-    printf("Enter elements of matrix 2:\n");
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
-            scanf("%d", &matrix2[i][j]);
-        }
-    }
+//     printf("Enter elements of matrix 2:\n");
+//     for (int i = 0; i < rows; i++) {
+//         for (int j = 0; j < cols; j++) {
+//             scanf("%d", &matrix2[i][j]);
+//         }
+//     }
 
-    // Add corresponding elements of matrices
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
-            sum[i][j] = matrix1[i][j] + matrix2[i][j];
-        }
-    }
+//     // Add corresponding elements of matrices
+//     for (int i = 0; i < rows; i++) {
+//         for (int j = 0; j < cols; j++) {
+//             sum[i][j] = matrix1[i][j] + matrix2[i][j];
+//         }
+//     }
 
-    printf("Sum of the matrices:\n");
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
-            printf("%d ", sum[i][j]);
-        }
-        printf("\n");
-    }
+//     printf("Sum of the matrices:\n");
+//     for (int i = 0; i < rows; i++) {
+//         for (int j = 0; j < cols; j++) {
+//             printf("%d ", sum[i][j]);
+//         }
+//         printf("\n");
+//     }
 
-    return 0;
-}
-
-
+//     return 0;
+// }
 
 
-/*
+
+
+
 #include <stdio.h>
 #define MAX_ROWS 10  //Maximum numbers of rows
 #define MAX_COLS 10  //Maximum numbers of columns
@@ -85,5 +85,3 @@ int main(){
 
     return 0;
 }
-
-*/

@@ -1,0 +1,8 @@
+Lab VI (Structure and Union):
+1.	Define a structure called Student with the following members: name, roll_number, and marks. Write a program to create a variable of type Student, initialize its members, and print them
+2.	Define a structure called Employee with members emp_id, name, and salary. Write a program to create an array of 5 Employee structures, initialize them, and print the details of each employee.
+3.	Define a function displayStudent that takes a Student structure as a parameter and prints its details.
+4.	Define a function displayEmployees that takes an array of Employee structures and its size as parameters, and prints the details of all employees.
+5.	Define a structure called Date with members day, month, and year. Define another structure called Person with members name and birth_date of type Date. Write a program to create a Person structure and print its details.
+6.	Define a union called Number with members integer and real of types int and float respectively. Write a program to demonstrate the use of this union by storing an integer and a real number in it, and printing them.
+7.	Define a function changeSalary that takes a pointer to an Employee structure and increases its salary by 10%. Use this function to update the salary of an employee.

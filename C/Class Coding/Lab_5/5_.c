@@ -1,0 +1,3 @@
+/*
+Write a function stringLength that takes a string as an argument and returns its length.
+*/

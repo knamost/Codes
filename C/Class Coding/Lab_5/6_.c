@@ -1,0 +1,5 @@
+/*
+Write a program that demonstrates passing arguments by address. 
+Define a function swap that takes two integer pointers as arguments and swaps the values they point to. 
+Print the swapped values from the main function.
+*/
