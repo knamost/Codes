@@ -1,0 +1,52 @@
+What do you mean by a problem analysis? What are the properties of a good algorithm?
+Explain the Compilation and Execution of any C program.
+List various binary and unary operators used in C?
+
+define data types and its types
+
+What do you mean by looping? Explain while loop with example.
+
+Discuss different types of if statements with a suitable example of each.
+
+What are the four types of control statement use in C programming? Explain.
+Explain the relational operator and increament/decrement operator with example.
+What do you mean by unformatted I/O? Explain.
+Discuss logical operators along with the truth table
+
+What is algorithm? How is it different from flowchart?
+What are the properties of a good algorithm?
+
+Explain flowchart with example.
+What are the benefits of using flowchart?
+What are the benefits of using arrays?
+
+
+Define function and list its advantages.
+Discuss the benefits of using function
+Explain the functions and its types use in C programming with example.
+Discuss any five string library functions
+
+
+
+
+#   Important difference between
+1. call by value and call by reference with example
+2. compare while loop with do-while loop
+3. if statement and switch statement
+4. passing arguments by value and passing arguments by address
+5. printf() and sprintf()
+6. break and continue statements
+7. compare one dimensional array and two-dimensional array
+
+
+
+#   Programs
+
+    *Matrix & Array*
+Write a program to find the sum of each row of 3*2 matrix
+Write a program to find the product of a matrix.
+Write a program to find transpose of a matrix.
+Write a program to check whether the diagonal elements of a (4*4) matrix are all zero.
+
+
+

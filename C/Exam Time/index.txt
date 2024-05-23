@@ -1,0 +1,18 @@
+0 1
+1 1
+1 2
+2 3
+3 5
+
+sum = 0;
+first = 1;
+
+for (i=0; i<5; i++){
+    next = first + second;
+    first = next;
+}
+
+next = first + second
+next = 0 + 1 = 1
+
+next = 
